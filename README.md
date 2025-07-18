@@ -1,3 +1,22 @@
+# 🔐 User Authentication API with Next.js, Prisma, PostgreSQL, and Bcrypt
+
+This project is a full-stack user authentication system built with **Next.js App Router**, **Prisma ORM**, **PostgreSQL**, and **bcrypt**. It includes secure user registration, login with hashed passwords, JWT-based session handling, and protected routes (like user profile).
+
+---
+
+## 🚀 Features
+
+- ✅ User registration with hashed password
+- ✅ Secure login using bcrypt password comparison
+- ✅ JWT-based authentication (stored in localStorage)
+- ✅ Protected profile route with middleware
+- ✅ Next.js 14 App Router structure
+- ✅ Prisma + PostgreSQL database integration
+
+---
+
+## 📁 Project Structure
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
